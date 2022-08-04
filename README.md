@@ -13,7 +13,7 @@ https://github.com/dot1q/dwdm-manager-service
 
 ![alt text](/src/assets/img/readme/main-page.PNG)
 ![alt text](/src/assets/img/readme/circuit-search.PNG)
-![alt text](/src/assets/img/readme/edit-wavelength.PNG width="200" )
+![alt text](/src/assets/img/readme/edit-wavelength.PNG)
 ![alt text](/src/assets/img/readme/circuit-map.PNG)
 
 ### Development building
