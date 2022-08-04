@@ -1,13 +1,20 @@
 # DWDM Manager UI
 This is a POC for my boy Scott. Scott, if you look at this, make me proud and turn this into a production system. 
 
-#Features
+# Features
 * Node management and map placement
 * Manage spans and link nodes together
 * Attach wavelengths to spans and create circuits
 * View circuit map and path from async search
 
+# Backend Service
+Refere to the dwdm-manager-service for the backend API server
+https://github.com/dot1q/dwdm-manager-service
+
 ![alt text](/src/assets/img/readme/main-page.PNG)
+![alt text](/src/assets/img/readme/circuit-search.PNG)
+![alt text](/src/assets/img/readme/edit-wavelength.PNG)
+![alt text](/src/assets/img/readme/circuit-map.PNG)
 
 ### Development building
 ```git checkout dev```
