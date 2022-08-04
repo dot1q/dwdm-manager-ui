@@ -397,7 +397,7 @@ class WavelengthList extends React.Component {
         </Row>
         <Modal show={showModal} onHide={this.toggleModal} animation={false}>
           <Modal.Header closeButton>
-            <Modal.Title>Add/Edit Span</Modal.Title>
+            <Modal.Title>Add/Edit Wavelength</Modal.Title>
           </Modal.Header>
           <Modal.Body>
             <GenericAlert variant={errModalType} message={errModalMsg} />
